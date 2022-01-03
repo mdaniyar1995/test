@@ -4,5 +4,8 @@ public class Main {
         newNapitok.setVidNapitka("Кофе");
         newNapitok.setColor("Черный");
         System.out.println(newNapitok.getVidNapitka() + " " + newNapitok.getColor());
+        System.out.println(newNapitok.getVidNapitka() + " " + newNapitok.getColor());
+        System.out.println(newNapitok.getVidNapitka() + " " + newNapitok.getColor());
+        System.out.println(newNapitok.getVidNapitka() + " " + newNapitok.getColor());
     }
 }
